@@ -1,0 +1,9 @@
+{
+"name": "Sonic the Hedgehog",
+"description": "Sounds from various Sonic games, new and old.",
+"author": "AcumaKai",
+"version": "v1.0",
+"manifest_version": 1,
+"music": false,
+"ignore": []
+}
