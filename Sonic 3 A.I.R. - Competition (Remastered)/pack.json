@@ -1,0 +1,9 @@
+{
+  "name": "Sonic 3 A.I.R. - Competition (Remastered)",
+  "description": "The remastered Competition music from Sonic 3: Angel Island Revisited. Loops perfectly.",
+  "author": "AcumaKai",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
