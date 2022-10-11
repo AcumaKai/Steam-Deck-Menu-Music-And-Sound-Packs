@@ -1,0 +1,9 @@
+{
+"name": "Sonic Mania",
+"description": "Similar to the default UI sounds with some extra for variety. All sounds are from Sonic Mania.",
+"author": "AcumaKai",
+"version": "v1.0",
+"manifest_version": 1,
+"music": false,
+"ignore": []
+}
