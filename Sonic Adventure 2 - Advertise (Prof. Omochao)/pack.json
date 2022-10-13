@@ -1,9 +1,0 @@
-{
-  "name": "Sonic Adventure 2 - Advertise (Prof. Omochao)",
-  "description": "The tutorial music from Sonic Adventure 2. Loops perfectly.",
-  "author": "AcumaKai",
-  "version": "v1.0",
-  "manifest_version": 1,
-  "music": true,
-  "ignore": []
-}
