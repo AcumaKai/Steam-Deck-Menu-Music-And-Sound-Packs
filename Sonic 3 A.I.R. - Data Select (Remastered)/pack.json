@@ -1,9 +1,0 @@
-{
-  "name": "Sonic 3 A.I.R. - Data Select (Remastered)",
-  "description": "The remastered Data Select music from Sonic 3: Angel Island Revisited. Loops perfectly.",
-  "author": "AcumaKai",
-  "version": "v1.0",
-  "manifest_version": 1,
-  "music": true,
-  "ignore": []
-}
